@@ -1,0 +1,113 @@
+{
+    "welcome message": "Khám phá mọi địa điểm nổi tiếng của đất nước xinh đẹp Việt Nam và tìm khách sạn & nhà hàng gần đó dễ dàng nhất. Nhận chỉ đường thời gian thực, ước tính chi phí, khám phá blog du lịch và nhiều hơn nữa..",
+    "welcome to": "Chào mừng đến với",
+
+    "intro-title1": "Dù Bạn Đang Ở Đâu",
+    "intro-title2": "Khám Phá Gần Bạn",
+    "intro-title3": "Hướng Dẫn Du Lịch Thời Gian Thực",
+    "intro-description1": "Truy cập các thông tin quan trọng về điểm đến của bạn trước và trong chuyến đi...",
+    "intro-description2": "Khám phá khách sạn & nhà hàng gần mọi địa điểm du lịch một cách dễ dàng nhất...",
+    "intro-description3": "Nhận chỉ đường, chi phí và các thông tin liên quan đến du lịch tại một nơi duy nhất...",
+    "get started": "Bắt Đầu",
+
+    "explore country": "Khám Phá Việt Nam",
+    "search places": "Tìm Kiếm Địa Điểm",
+    "popular places": "Địa Điểm Phổ Biến",
+    "special state-1 places": "Địa Điểm Miền Nam",
+    "special state-2 places": "Địa Điểm Miền Bắc",
+    "recently added": "Mới Thêm Gần Đây",
+    "recommended places": "Địa Điểm Đề Xuất",
+
+    "people like this": "Người Yêu Thích",
+    "todo": "Việc Cần Làm",
+    "you may also like": "Bạn Cũng Có Thể Thích",
+    "travel guide": "Hướng Dẫn Du Lịch",
+    "nearby hotels": "Khách Sạn Gần Đây",
+    "nearby restaurants": "Nhà Hàng Gần Đây",
+    "steps": "Các Bước",
+    "estimated cost = ": "Chi Phí Ước Tính = ",
+    "distance = ": "Khoảng Cách = ",
+    "no hotels found": "Không Tìm Thấy Khách Sạn",
+    "no restaurants found": "Không Tìm Thấy Nhà Hàng",
+    "we didn't find any nearby hotels in this area": "Chúng tôi không tìm thấy khách sạn nào gần khu vực này",
+    "we didn't find any nearby restaurants in this area": "Chúng tôi không tìm thấy nhà hàng nào gần khu vực này",
+    "user reviews": "Đánh Giá Người Dùng",
+
+    "write a review": "Viết Đánh Giá",
+    "no internet": "Không có kết nối internet!",
+    "no comments found": "Không tìm thấy bình luận",
+    "be the first to comment": "Hãy là người đầu tiên bình luận",
+
+    "recently added places": "Địa Điểm Mới Thêm",
+
+    "search & explore": "Tìm & Khám Phá Địa Điểm",
+    "recent searchs": "Tìm Kiếm Gần Đây",
+    "search for places": "Tìm kiếm địa điểm",
+    "search-description": "Bạn chưa tìm kiếm mục nào.\n Hãy thử ngay - chúng tôi sẽ giúp bạn!",
+    "we have found": "Chúng tôi đã tìm thấy",
+    "no places found": "Không tìm thấy địa điểm nào",
+    "try again": "Thử lại!",
+
+    "states": "Tỉnh/Thành",
+    "blogs": "Blogs",
+
+    "bookmarks": "Đã Lưu",
+    "saved places": "Địa Điểm Đã Lưu",
+    "saved blogs": "Blog Đã Lưu",
+    "sign in first": "Đăng Nhập Trước",
+    "sign in to save your favourite places here": "Đăng nhập để lưu các địa điểm yêu thích tại đây",
+    "sign in to save your favourite blogs here": "Đăng nhập để lưu các blog yêu thích tại đây",
+    "no blogs found": "Không tìm thấy blog nào",
+    "save your favourite places here": "Lưu các địa điểm yêu thích tại đây",
+    "save your favourite blogs here": "Lưu các blog yêu thích tại đây",
+
+    "skip": "Bỏ Qua",
+    "check your internet connection!": "Kiểm tra kết nối internet của bạn!",
+    "something is wrong. please try again.": "Có lỗi xảy ra. Vui lòng thử lại.",
+
+    "sign in": "Đăng Nhập",
+    "cancel": "Hủy",
+
+    "no sign in title": "Đăng nhập để truy cập tính năng này",
+    "no sign in subtitle": "Bạn chưa đăng nhập. Vui lòng đăng nhập để mở khóa tính năng này",
+
+    "comments": "Bình Luận",
+    "write a comment": "Viết Bình Luận",
+
+    "no content": "Không có nội dung nào",
+    "delete?": "Xóa?",
+    "delete from database?": "Bạn có muốn xóa mục này không?",
+
+    "notifications": "Thông Báo",
+    "notification details": "Chi Tiết Thông Báo",
+
+    "profile": "Hồ Sơ",
+    "general setting": "Cài Đặt Chung",
+    "login": "Đăng Nhập",
+    "get notifications": "Nhận Thông Báo",
+    "contact us": "Liên Hệ Chúng Tôi",
+    "rate this app": "Đánh Giá Ứng Dụng",
+    "licence": "Giấy Phép",
+    "privacy policy": "Chính Sách Bảo Mật",
+    "about us": "Về Chúng Tôi",
+    "logout": "Đăng Xuất",
+    "edit profile": "Chỉnh Sửa Hồ Sơ",
+    "update profile": "Cập Nhật Hồ Sơ",
+    "updated successfully": "Cập Nhật Thành Công",
+    "enter new name": "Nhập tên mới",
+
+    "logout title": "Bạn có chắc muốn đăng xuất khỏi ứng dụng?",
+    "yes": "Có",
+    "no": "Không",
+
+    "language": "Ngôn Ngữ",
+    "select language": "Chọn Ngôn Ngữ",
+
+    "buy now": "Mua Ứng Dụng",
+    "buy now subtitle": "Mua mã nguồn đầy đủ tại đây và phát triển ứng dụng cho quốc gia của bạn",
+    "Guest": "Khách",
+
+    "Admin": "Quản Trị Viên",
+    "Chat Room": "Phòng Trò Chuyện",
+    "Directions": "Chỉ đường"
+}
