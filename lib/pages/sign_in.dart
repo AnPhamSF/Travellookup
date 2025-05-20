@@ -179,7 +179,7 @@ class _SignInPageState extends State<SignInPage> {
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
                   MyButton(
-                    text: "Đăng nhập với Email",
+                    text: "Email",
                     onTap: () => nextScreen(context, Login()),
                   ),
                   SizedBox(height: 20),
@@ -208,7 +208,7 @@ class _SignInPageState extends State<SignInPage> {
                                     width: 10,
                                   ),
                                   Text(
-                                    'Đăng nhập với Google',
+                                    'Google',
                                     style: TextStyle(
                                         fontSize: 16,
                                         fontWeight: FontWeight.w600,

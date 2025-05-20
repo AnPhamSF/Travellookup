@@ -2,12 +2,12 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class Config {
   final String appName = 'Travellookup';
-  final String mapAPIKey = '';
+  final String mapAPIKey = 'AIzaSyArA534clRnR6Qwg_Oamsdrbfl0VSREqQ8';
   final String countryName = 'Viet Nam';
   final String splashIcon = 'assets/images/flight.png';
   final String supportEmail = 'phamhobinhan03062003@gmail.com';
-  final String privacyPolicyUrl = 'https://www.freeprivacypolicy.com/pri************';
-  final String ourWebsiteUrl = 'https://Travellookup.com';
+  final String privacyPolicyUrl = '';
+  final String ourWebsiteUrl = 'https://www.tiktok.com/@anphamsfox';
   final String iOSAppId = '000000000';
 
   final String specialState1 = 'Hồ Chí Minh';
@@ -17,7 +17,7 @@ class Config {
 
   // your country lattidtue & logitude
   final CameraPosition initialCameraPosition = CameraPosition(
-    target: LatLng(23.777176,90.399452),
+    target: LatLng(10.762622, 106.660172),
     zoom: 10,
   );
 
@@ -47,11 +47,10 @@ class Config {
 
   
   // Ads Setup
-
   final int userClicksAmountsToShowEachAd  = 5;
 
    //-- admob ads --
-  final String admobAppId = 'ca-app-pub-3940256099942544~3347511713';
+  final String admobAppId = 'ca-app-pub-1200000760984247~4892017374';
   final String admobInterstitialAdId = 'ca-app-pub-3940256099942544/1033173712';
 
   //fb ads

@@ -26,7 +26,7 @@ class ListCard extends StatelessWidget {
                 Container(
                   margin: EdgeInsets.only(top: 15, left: 25, right: 10, bottom: 10),
                   alignment: Alignment.topLeft,
-                  height: 120,
+                  height: 135,
                   decoration: BoxDecoration(
                     color: color,
                     borderRadius: BorderRadius.circular(5),

@@ -121,7 +121,7 @@ class _ListItem extends StatelessWidget {
             child: Container(
               width: MediaQuery.of(context).size.width,
               padding: EdgeInsets.all(15),
-              height: 80,
+              height: 90,
               decoration: BoxDecoration(
                   color: Colors.grey[900],
                   borderRadius: BorderRadius.only(

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:get/get.dart';
+import 'package:get/get_core/src/get_main.dart';
 import '/core/config/config.dart';
 
 class LanguagePopup extends StatefulWidget {
@@ -35,9 +37,12 @@ class _LanguagePopupState extends State<LanguagePopup> {
           title: Text(d),
           onTap: () async{
             if(index == 0){
-              await context.setLocale(Locale('en'));}
+              await context.setLocale(Locale('en'));
+              Get.updateLocale(Locale('en'));
+            }
             else {
-              await context.setLocale(Locale('es'));
+              await context.setLocale(Locale('vi'));
+              Get.updateLocale(Locale('vi'));
             }
             Navigator.pop(context);
           },

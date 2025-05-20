@@ -28,10 +28,10 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   runApp(EasyLocalization(
-    supportedLocales: [Locale('en'), Locale('es')],
+    supportedLocales: [Locale('vi'), Locale('en')],
     path: 'assets/translations',
-    fallbackLocale: Locale('en'),
-    startLocale: Locale('en'),
+    fallbackLocale: Locale('vi'),
+    startLocale: Locale('vi'),
     useOnlyLangCode: true,
     child: MyApp(),
   ));
